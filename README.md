@@ -1,5 +1,4 @@
-# Kafka-SP-Docker
-Integrating Kafka in Spring boot application and deploying in Docker
+
 
 # Kafka-SP-Docker: Spring Boot + Kafka + Docker Starter Project
 
